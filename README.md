@@ -1,5 +1,5 @@
-### Committed to the service to be desempenhed, performing the best possible way, i always use the good logical reasoning, to try to carry out deployments without leaving errors. Proactive, I'm always trying to improve the work environment.
-### I have experience with computers, systems and spreadsheets. work with the sale of my Xpointer system, for Raspberry cards, computer maintenance (hardware and software) and web design freelancer. I am punctual in my commitments and I highly value compliance with deadlines.
+Committed to the service to be desempenhed, performing the best possible way, i always use the good logical reasoning, to try to carry out deployments without leaving errors. Proactive, I'm always trying to improve the work environment.
+I have experience with computers, systems and spreadsheets. work with the sale of my Xpointer system, for Raspberry cards, computer maintenance (hardware and software) and web design freelancer. I am punctual in my commitments and I highly value compliance with deadlines.
 
 <!--
 **GuilhermeDBeitum/GuilhermeDBeitum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
