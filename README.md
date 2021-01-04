@@ -1,6 +1,11 @@
 
-Hello, I'm Guilherme, web systems developer. my specialty is front-end programming.
-Committed to the service to be performed, I perform in the best possible way, I always use good logical reasoning, to try to finalize the deployments without leaving errors. Proactive, I always try to improve the work environment. I have experience with computers, systems and spreadsheets. I work with my Xpointer system, for Raspberry cards, I maintain computers (hardware and software) and, for a long time, I am a freelance WebDev. I am punctual with my commitments and I highly value meeting deadlines.
+Hello, I'm Guilherme, web systems developer.
+My specialty is front-end programming.
+Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, to try to finalize the implementations without leaving any errors.
+I have experience with systems, dashboards, devops methodology and various tools.
+I currently work as a freelance webdev and perform maintenance on computers (hardware and software).
+I like to study a lot, to know new programming languages ​​and technologies, I always try to improve myself and keep myself updated.
+I am punctual with my commitments and I highly value meeting deadlines.
   
   https://guilhermebeitum.com.br
   
