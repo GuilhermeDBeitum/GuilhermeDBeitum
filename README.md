@@ -3,7 +3,7 @@ Hello, I'm Guilherme, web systems developer.
 My specialty is front-end programming.
 Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, to try to finalize the implementations without leaving any errors.
 I have experience with systems, dashboards, devops methodology and various tools.
-I currently work as a freelance webdev and perform maintenance on computers (hardware and software).
+I currently work as a freelancer webdev and perform maintenance on computers (hardware and software).
 I like to study a lot, to know new programming languages ​​and technologies, I always try to improve myself and keep myself updated.
 I am punctual with my commitments and I highly value meeting deadlines.
   
