@@ -13,9 +13,16 @@ I currently work as a freelancer webdev and perform maintenance on computers (ha
 I like to study a lot, to know new programming languages ​​and technologies, I always try to improve myself and keep myself updated.
 I am punctual with my commitments and I highly value meeting deadlines.
   
-  https://guilhermebeitum.com.br
+  
+  <p align="center">
+
+ https://guilhermebeitum.com.br
   
   <img width="574" alt="form" src="https://user-images.githubusercontent.com/54703843/90325700-46b98900-df55-11ea-9093-9601af8f280a.png">
+
+</p>
+  
+ 
 
 <!--
 **GuilhermeDBeitum/GuilhermeDBeitum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
