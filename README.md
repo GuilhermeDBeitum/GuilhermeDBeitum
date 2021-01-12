@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-web systems developer.
+Web systems developer.
 </h2>
 
 My specialty is front-end programming.
