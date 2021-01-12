@@ -15,6 +15,9 @@ I am punctual with my commitments and I highly value meeting deadlines.
   
   
   <div align="center">
+ 
+ <h4>for more information visit my profile:</h4>
+ 
 
  https://guilhermebeitum.com.br
   
