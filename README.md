@@ -1,10 +1,10 @@
-<p align="center">
- <h1> Hello, 👋 I'm Guilherme, </h1>
-</p>
+<h1 align="center">
+ Hello, 👋 I'm Guilherme,
+</h1>
 
-<p align="center">
-<h2> web systems developer. </h2>
-</p>
+<h2 align="center">
+web systems developer.
+</h2>
 
 My specialty is front-end programming.
 Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, to try to finalize the implementations without leaving any errors.
