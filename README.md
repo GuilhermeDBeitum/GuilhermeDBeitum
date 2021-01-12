@@ -1,5 +1,5 @@
 <h1 align="center">
- Hello, 👋 I'm Guilherme,
+ Hello 👋, I'm Guilherme
 </h1>
 
 <h2 align="center">
@@ -22,6 +22,8 @@ I am punctual with my commitments and I highly value meeting deadlines.
  https://guilhermebeitum.com.br
   
    </div>
+   
+   <br>
   
   <div align="center">  
   
