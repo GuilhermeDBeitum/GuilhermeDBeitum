@@ -17,13 +17,17 @@ I am punctual with my commitments and I highly value meeting deadlines.
   <div align="center">
  
  <h4>for more information visit my website:</h4>
- 
+
 
  https://guilhermebeitum.com.br
   
+   </div>
+  
+  <div align="center">  
+  
   <img width="574" alt="form" src="https://user-images.githubusercontent.com/54703843/90325700-46b98900-df55-11ea-9093-9601af8f280a.png">
 
-</div>
+ </div>
   
  
 
