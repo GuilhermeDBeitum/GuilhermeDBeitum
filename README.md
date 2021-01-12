@@ -1,9 +1,9 @@
 <p align="center">
- # Hello, 👋 I'm Guilherme,
+ <h1> Hello, 👋 I'm Guilherme, </h1>
 </p>
 
 <p align="center">
-## web systems developer.
+<h2> web systems developer. </h2>
 </p>
 
 My specialty is front-end programming.
