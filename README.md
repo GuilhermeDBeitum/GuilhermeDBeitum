@@ -14,13 +14,13 @@ I like to study a lot, to know new programming languages ​​and technologies,
 I am punctual with my commitments and I highly value meeting deadlines.
   
   
-  <p align="center">
+  <div align="center">
 
  https://guilhermebeitum.com.br
   
   <img width="574" alt="form" src="https://user-images.githubusercontent.com/54703843/90325700-46b98900-df55-11ea-9093-9601af8f280a.png">
 
-</p>
+</div>
   
  
 
