@@ -1,5 +1,5 @@
-:# Hello, 👋 I'm Guilherme,:
-: ## web systems developer. :
+# :Hello, 👋 I'm Guilherme,:
+## :web systems developer.:
 My specialty is front-end programming.
 Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, to try to finalize the implementations without leaving any errors.
 I have experience with systems, dashboards, devops methodology and various tools.
