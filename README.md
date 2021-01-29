@@ -25,14 +25,6 @@ I am punctual with my commitments and I highly value meeting deadlines.
    
    <br>
   
-  <div align="center">  
-  
-  <img width="574" alt="form" src="https://user-images.githubusercontent.com/54703843/90325700-46b98900-df55-11ea-9093-9601af8f280a.png">
-
- </div>
-  
- 
-
 <!--
 **GuilhermeDBeitum/GuilhermeDBeitum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
