@@ -1,7 +1,5 @@
   <div align="center">
-
-![82030197_2487061424754581_6135016502052519936_n](https://user-images.githubusercontent.com/54703843/138565697-784dba21-2517-4a96-9d79-ca7cb9987745.jpg)
-
+<img width="334" alt="Untitled" src="https://user-images.githubusercontent.com/54703843/138566755-e579c2f4-5fb0-4366-aefb-f68d43828b97.png">
  </div>
  
 <h1 align="center">
