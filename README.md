@@ -1,3 +1,9 @@
+  <div align="center">
+
+![82030197_2487061424754581_6135016502052519936_n](https://user-images.githubusercontent.com/54703843/138565697-784dba21-2517-4a96-9d79-ca7cb9987745.jpg)
+
+ </div>
+ 
 <h1 align="center">
  Hello 👋, I'm Guilherme
 </h1>
@@ -66,6 +72,6 @@ UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  N
 
 
 <div align=“center”>
-<img src="https://raw.githubusercontent.com/GuilhermeDBeitum/GuilhermeDBeitum/master/Thanks.svg" width="120%" title="hover text">
+<img src="https://raw.githubusercontent.com/GuilhermeDBeitum/GuilhermeDBeitum/main/Thanks.svg" width="120%" title="hover text">
 <br />
 </div>
