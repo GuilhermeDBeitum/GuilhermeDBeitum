@@ -30,12 +30,7 @@ I am punctual with my commitments and I highly value meeting deadlines.
    </div>
    
    <br>
-   
- 
- 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+
 
 <br> 
   
