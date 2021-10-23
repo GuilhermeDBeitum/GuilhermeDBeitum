@@ -3,7 +3,7 @@
  </div>
  
 <h1 align="center">
- Hello 👋, I'm Guilherme
+ Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Guilherme
 </h1>
 
 <h2 align="center">
@@ -58,9 +58,10 @@ UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  N
 <h4>OS: Windows/Linux/MacOs.</h4>
 
 ## 📈 Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDBeitum&hide_border=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&show_icons=true&hide_border=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDBeitum&hide_border=true&theme=radical" />
 </p>
 
 
