@@ -37,9 +37,9 @@ I am punctual with my commitments and I highly value meeting deadlines.
 👨‍🏫 Knowledge
 
 
-<img  width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=35&margin-h=15&theme=radical">
+<img  width="60%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=15&margin-h=15&theme=radical">
 
-
+<h4 align="center">
 
     - Web Programming
     - Mobile Development
@@ -49,7 +49,7 @@ I am punctual with my commitments and I highly value meeting deadlines.
     - Artificial Intelligence
     - Computer maintenance
     - Databases
-
+</h4>
 
 
 🧰 Technologies and Tools
