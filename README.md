@@ -29,15 +29,14 @@ https://guilhermedb.web.app/
 <br> 
   
 
-<img align="right"  width="17%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-<div align="right" >
+  <img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20%"/>
+
+<img align="right"  width="17%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<div align="center" >
   
 👨‍🏫 Knowledge
-  
 
-
-  
     - Web Programming
     - Mobile Development
     - Operating Systems
