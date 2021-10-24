@@ -29,13 +29,13 @@ https://guilhermedb.web.app/
 <br> 
   
 
-<img align="right"  width="15%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-
-
+<img align="right"  width="17%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <div align="right" >
+  
 👨‍🏫 Knowledge
- <br>
+  
+
 
   
     - Web Programming
