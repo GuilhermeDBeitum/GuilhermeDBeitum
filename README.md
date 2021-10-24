@@ -36,14 +36,14 @@ https://guilhermedb.web.app/
   
 👨‍🏫 Knowledge
 
-    - Web Programming
-    - Mobile Development
-    - Operating Systems
-    - Computer Networks
-    - Systems Security
-    - Artificial Intelligence
-    - Computer maintenance
-    - Databases
+    * Web Programming
+    * Mobile Development
+    * Operating Systems
+    * Computer Networks
+    * Systems Security
+    * Artificial Intelligence
+    * Computer maintenance
+    * Databases
  
 </div>
   
@@ -51,7 +51,7 @@ https://guilhermedb.web.app/
 <br>   
 
 <div align="center">
-<img  width="78%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=7&margin-w=15&margin-h=15&theme=radical">
+<img  width="79%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=7&margin-w=15&margin-h=15&theme=radical">
 </div>
 
 <br>
