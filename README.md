@@ -30,8 +30,7 @@ https://guilhermedb.web.app/
   
 
 
-  <img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20%"/>
-
+<img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20%"/>
 <img align="right"  width="17%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 <div align="center" >
   
@@ -52,7 +51,7 @@ https://guilhermedb.web.app/
 <br>   
 
 <div align="center">
-<img  width="75%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=7&margin-w=15&margin-h=15&theme=radical">
+<img  width="78%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=7&margin-w=15&margin-h=15&theme=radical">
 </div>
 
 <br>
