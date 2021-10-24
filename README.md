@@ -28,12 +28,16 @@ https://guilhermedb.web.app/
 <br>
 <br> 
   
-  
+
+<img align="right"  width="15%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+
+
+<div align="right" >
 👨‍🏫 Knowledge
+ <br>
 
-
-<img  width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=15&margin-h=15&theme=radical">
-
+  
     - Web Programming
     - Mobile Development
     - Operating Systems
@@ -42,7 +46,18 @@ https://guilhermedb.web.app/
     - Artificial Intelligence
     - Computer maintenance
     - Databases
+ 
+</div>
+  
+<br>
+<br>   
 
+<div align="center">
+<img  width="75%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=7&margin-w=15&margin-h=15&theme=radical">
+</div>
+
+<br>
+<br>
 
 🧰 Technologies and Tools
 
