@@ -32,7 +32,14 @@ I am punctual with my commitments and I highly value meeting deadlines.
 
 <br> 
   
+
+  
 👨‍🏫 Knowledge
+
+
+<img  width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=35&margin-h=15&theme=radical">
+
+
 
     - Web Programming
     - Mobile Development
@@ -42,6 +49,8 @@ I am punctual with my commitments and I highly value meeting deadlines.
     - Artificial Intelligence
     - Computer maintenance
     - Databases
+
+
 
 🧰 Technologies and Tools
 
@@ -54,10 +63,8 @@ JavaScript, TypeScript, React, Angular, jQuery, Rails, NoSQL, MySQL, PostgreSQL,
 <h4>Advanced:</h4>
 UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  Nuxt.js,  WebServices,  REST,  SOAP,  JSON,  XML,  Scrum,  Kanban;
 
+<h4>OS:</h4> Windows/Linux/MacOs.
 <hr>
-<h4>OS: Windows/Linux/MacOs.</h4>
-
-## 📈 Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&show_icons=true&hide_border=true&theme=radical" />
