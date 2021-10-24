@@ -41,6 +41,7 @@ https://guilhermedb.web.app/
     * Operating Systems
     * Computer Networks
     * Systems Security
+    * Cloud Computing
     * Artificial Intelligence
     * Computer maintenance
     * Databases
