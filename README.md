@@ -18,28 +18,21 @@ I like to study a lot, to know new programming languages and technologies, I alw
 I am punctual with my commitments and I highly value meeting deadlines.
   
   
-  <div align="center">
+<div align="center">
  
- <h4>For more information visit my website:</h4>
-
-
- https://guilhermedb.web.app/
+<h4>For more information visit my website:</h4>
+https://guilhermedb.web.app/
   
-   </div>
+</div>
    
-   <br>
-
-
+<br>
 <br> 
   
-
   
 👨‍🏫 Knowledge
 
 
-<img  width="60%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=15&margin-h=15&theme=radical">
-
-<h4 align="center">
+<img  width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&column=4&margin-w=15&margin-h=15&theme=radical">
 
     - Web Programming
     - Mobile Development
@@ -49,7 +42,6 @@ I am punctual with my commitments and I highly value meeting deadlines.
     - Artificial Intelligence
     - Computer maintenance
     - Databases
-</h4>
 
 
 🧰 Technologies and Tools
