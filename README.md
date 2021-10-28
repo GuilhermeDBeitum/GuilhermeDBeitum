@@ -34,7 +34,7 @@ https://guilhermedb.web.app/
 <img align="right"  width="17%" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 <div align="center" >
   
-# 👨‍🏫 Knowledge
+👨‍🏫 Knowledge
 
     * Web Programming
     * Mobile Development
@@ -58,7 +58,7 @@ https://guilhermedb.web.app/
 <br>
 <br>
 
-# 🧰 Technologies and Tools
+🧰 Technologies and Tools
 
 <h4>Basic:</h4>
 JAVA,  Kotlin,  C,  C++,  C#,  Ruby,  Python ;
