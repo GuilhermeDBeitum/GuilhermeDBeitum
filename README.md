@@ -15,7 +15,6 @@ Committed to the service to be performed, I act in the best possible way, always
 I have experience with systems, dashboards, devops methodology and various tools.
 I currently work as a freelancer webdev and perform maintenance on computers (hardware and software).
 I like to study a lot, to know new programming languages and technologies, I always try to improve myself and keep myself updated.
-I am punctual with my commitments and I highly value meeting deadlines.
   
   
 <div align="center">
@@ -76,9 +75,3 @@ UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  N
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&show_icons=true&hide_border=true&theme=radical" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDBeitum&hide_border=true&theme=radical" />
 </p>
-
-
-<div align=“center”>
-<img src="https://raw.githubusercontent.com/GuilhermeDBeitum/GuilhermeDBeitum/main/Thanks.svg" width="120%" title="hover text">
-<br />
-</div>
