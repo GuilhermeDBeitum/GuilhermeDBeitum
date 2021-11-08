@@ -38,7 +38,7 @@ https://guilhermedb.web.app/
   
 
 
-<img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30%"/>
+<img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="34%"/>
 <div align="center" >
   
 👨‍🏫 Knowledge
@@ -55,7 +55,7 @@ https://guilhermedb.web.app/
  
 </div>
   
-<br>
+<hr>
 <br>   
 
 <div align="center">
