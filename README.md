@@ -8,7 +8,16 @@
 
 <h2 align="center">
 Systems Analyst.
+  
+<hr>
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/guilhermedouglas.beitum)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gdbeitum)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/guilherme_beitum)
+
 </h2>
+
+
 
 My specialty is front-end programming.
 Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, to try to finalize the implementations without leaving any errors.
