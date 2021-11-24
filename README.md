@@ -47,6 +47,7 @@ https://guilhermedb.web.app/
 </div>
 
 <br>
+<hr>
 <br>
 
 🧰 Technologies and Tools
