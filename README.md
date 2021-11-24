@@ -61,5 +61,3 @@ JavaScript, TypeScript, React, Angular, jQuery, Rails, NoSQL, MySQL, PostgreSQL,
 <h4>Advanced:</h4>
 UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  Nuxt.js,  WebServices,  REST,  SOAP,  JSON,  XML,  Scrum,  Kanban;
 
-<h4>OS:</h4> Windows/Linux/MacOs.
-<hr>
