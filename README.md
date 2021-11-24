@@ -1,7 +1,4 @@
-  <div align="center">
-<img width="334" alt="Untitled" src="https://user-images.githubusercontent.com/54703843/138566755-e579c2f4-5fb0-4366-aefb-f68d43828b97.png">
- </div>
- 
+
 <h1 align="center">
  Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Guilherme
 </h1>
