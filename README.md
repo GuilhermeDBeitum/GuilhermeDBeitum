@@ -32,23 +32,10 @@ https://guilhermedb.web.app/
    
 <br>
 <br> 
-  
 
-
-<img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="34%"/>
 <div align="center" >
   
-👨‍🏫 Knowledge
-
-    * Web Programming
-    * Mobile Development
-    * Operating Systems
-    * Computer Networks
-    * Systems Security
-    * Cloud Computing
-    * Artificial Intelligence
-    * Computer maintenance
-    * Databases
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="34%"/>
  
 </div>
   
