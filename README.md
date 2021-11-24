@@ -35,7 +35,7 @@ https://guilhermedb.web.app/
 
 <div align="center" >
   
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="34%"/>
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="33%"/>
  
 </div>
   
