@@ -75,8 +75,3 @@ UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  N
 
 <h4>OS:</h4> Windows/Linux/MacOs.
 <hr>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&show_icons=true&hide_border=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDBeitum&hide_border=true&theme=radical" />
-</p>
