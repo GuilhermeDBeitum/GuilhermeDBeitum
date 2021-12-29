@@ -56,8 +56,8 @@ https://guilhermeb.web.app
 JAVA,  Kotlin,  C,  C++,  C#,  Ruby,  Python ;
 
 <h4>Medium:</h4>
-JavaScript, TypeScript, React, Angular, jQuery, Rails, NoSQL, MySQL, PostgreSQL, BS, PHP, Node, SASS, Webpack, BDD , TDD;
+JavaScript, TypeScript, React, Angular, jQuery, Rails, NoSQL, MySQL, PostgreSQL, GraphQL BS, PHP, Node, SASS, Webpack, BDD , TDD;
 
 <h4>Advanced:</h4>
-UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Flux,  Vue.js,  Nuxt.js,  WebServices,  REST,  SOAP,  JSON,  XML,  Scrum,  Kanban;
+UI,  UX,  SPA,  PWA,  XD,  Proto.io,  Figma,  Firebase,  GIT,  Vuex, Redux, Vue.js,  Nuxt.js, WebServices,  REST,  SOAP,  JSON,  XML,  Scrum,  Kanban;
 
