@@ -42,7 +42,7 @@ https://guilhermeb.web.app
 <br>   
 
 <div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=2&margin-w=50&margin-h=15&theme=radical&title=MultiLanguage,Stars,Commits,Repositories">
+<img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=2&margin-w=50&margin-h=15&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,PullRequest">
 </div>
 
 <br>
