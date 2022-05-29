@@ -28,15 +28,6 @@ I like to study a lot, to know new programming languages and technologies, I alw
 https://guilhermeb.web.app
   
 </div>
-   
-<br>
-<br> 
-
-<div align="center" >
-  
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="33%"/>
- 
-</div>
   
 <hr>
 <br>   
