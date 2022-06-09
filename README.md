@@ -1,8 +1,3 @@
-
-<h1 align="center">
- GUILHERME DOUGLAS BEITUM
-</h1>
-
 <h2 align="center">
 Software Engineer
   
