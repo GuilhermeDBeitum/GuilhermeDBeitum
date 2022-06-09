@@ -22,6 +22,12 @@ I like to study a lot, to know new programming languages and technologies, I alw
 <h4>For more information visit my website:</h4>
 https://guilhermeb.web.app
   
+<br>  
+<br>  
+<br>  
+  
+<a href="https://app.daily.dev/Xpsys"><img src="https://api.daily.dev/devcards/054637eb691e4d498bbe9483db54975d.png?r=cq1" width="250" alt="Guilherme Douglas Beitum's Dev Card"/></a>
+
 </div>
   
 <hr>
@@ -29,11 +35,4 @@ https://guilhermeb.web.app
 
 <div align="center">
 <img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=2&margin-w=50&margin-h=15&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,PullRequest">
-</div>
-
-<hr>
-<br>   
-
-<div align="center">
-<a href="https://app.daily.dev/Xpsys"><img src="https://api.daily.dev/devcards/054637eb691e4d498bbe9483db54975d.png?r=cq1" width="400" alt="Guilherme Douglas Beitum's Dev Card"/></a>
-</div>
+</div>  
