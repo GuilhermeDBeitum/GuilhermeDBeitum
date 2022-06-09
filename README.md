@@ -21,10 +21,6 @@ I like to study a lot, to know new programming languages and technologies, I alw
  
 <h4>For more information visit my website:</h4>
 https://guilhermeb.web.app
-  
-<br>  
-<br>  
-<br>  
 
 </div>
   
