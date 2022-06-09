@@ -26,8 +26,6 @@ https://guilhermeb.web.app
 <br>  
 <br>  
 
-<a href="https://app.daily.dev/Xpsys"><img src="https://api.daily.dev/devcards/054637eb691e4d498bbe9483db54975d.png?r=oc8" width="300" alt="Guilherme Douglas Beitum's Dev Card"/></a>
-
 </div>
   
 <hr>
