@@ -26,8 +26,3 @@ I like to study a lot, to know new programming languages and technologies, I alw
 </div>
   
 <hr>
-<br>   
-
-<div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=2&margin-w=50&margin-h=15&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,PullRequest">
-</div>  
