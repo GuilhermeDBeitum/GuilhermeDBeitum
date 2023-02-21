@@ -20,7 +20,7 @@ I like to study a lot, to know new programming languages and technologies, I alw
 <div align="center">
  
 <h4>For more information visit my website:</h4>
-<a href="https://guilhermeb.web.app">GUILHERME D. BEITUM: UI / UX / SOFTWARE ENGINEER</a>
+<a href="https://guilhermeb.web.app">GUILHERME D. BEITUM: UI / UX DESING || SOFTWARE ENGINEER</a>
 
 
 </div>
