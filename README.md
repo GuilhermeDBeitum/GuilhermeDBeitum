@@ -1,6 +1,4 @@
 <h2 align="center">
-UI / UX Designer || Software Engineer
-  
 <hr>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/guilhermedouglas.beitum)
