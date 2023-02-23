@@ -1,5 +1,5 @@
 <h2 align="center">
-Software Engineer
+UI / UX Designer || Software Engineer
   
 <hr>
 
