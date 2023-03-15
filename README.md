@@ -1,4 +1,9 @@
 <h2 align="center">
+Software Engineer |  UI / UX Designer 
+
+ <br>
+ <br>
+ 
  📱
   
   <hr>
