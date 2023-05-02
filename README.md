@@ -15,7 +15,7 @@ I am passionate about creating beautiful, functional and accessible user interfa
 I always seek to update myself on new trends  in the market. 
 My goal is to be part of a team that values: quality, creativity and collaboration in the development of web solutions. 
 I currently work as a freelancer webdev and perform maintenance on computers.
-I like to study a lot, to know new programming languages and technologies.
+I like to know new programming languages a lot and technologies.
   
 <div align="center">
  
