@@ -8,7 +8,7 @@
   <hr>
 
 </h2>
-
+Hello there, my name is Guilherme Douglas Beitum.
 Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, 
 I have experience with systems, dashboards, devops methodology and various tools. 
 I am passionate about creating beautiful, functional and accessible user interfaces.
