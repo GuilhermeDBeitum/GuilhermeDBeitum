@@ -15,6 +15,7 @@ I am passionate about creating beautiful, functional and accessible user interfa
 I always seek to update myself on new trends  in the market. 
 My goal is to be part of a team that values: quality, creativity and collaboration in the development of web solutions. 
   
+  <hr>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
