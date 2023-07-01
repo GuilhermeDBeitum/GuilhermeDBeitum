@@ -22,6 +22,8 @@ My goal is to be part of a team that values: quality, creativity and collaborati
     <div align="center">
         <a href="https://guilhermeb.web.app">GUILHERME D. BEITUM</a>
     </div>
+  <br>
+   <img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=1&margin-w=0&margin-h=0&theme=radical&title=MultiLanguage"> 
 </div>
   
 <hr>
