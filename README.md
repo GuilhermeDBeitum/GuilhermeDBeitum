@@ -15,23 +15,13 @@ I am passionate about creating beautiful, functional and accessible user interfa
 I always seek to update myself on new trends  in the market. 
 My goal is to be part of a team that values: quality, creativity and collaboration in the development of web solutions. 
   
-  <hr>
+<hr>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0";>
-        <img width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47cfxovn4m81dgq2g32svgnqr8yy45f7y25vdyj4yz&rid=giphy.gif&ct=g" />
-      </td>
-      <td style="border: 0";>
-        <img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=2&margin-w=50&margin-h=15&theme=radical&title=MultiLanguage,Repositories">
-        <h4>For more information visit my website:</h4>
-        <div align="center">
-          <a href="https://guilhermeb.web.app">GUILHERME D. BEITUM</a>
-        </div>
-      </td>   
-    </tr>
-  </table>
+  <h4>For more information visit my website:</h4>
+    <div align="center">
+        <a href="https://guilhermeb.web.app">GUILHERME D. BEITUM</a>
+    </div>
 </div>
   
 <hr>
