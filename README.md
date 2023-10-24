@@ -3,7 +3,7 @@
   📱
   
  
- Software Engineer
+Software Engineer | Innovation Consultant
  
   <hr>
 
