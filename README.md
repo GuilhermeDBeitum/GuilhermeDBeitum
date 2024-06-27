@@ -1,24 +1,5 @@
-<h2 align="center">
-
-  📱
-  
- 
-Software Engineer | Innovation Consultant
- 
-  <hr>
-
-</h2>
-Hello there, my name is Guilherme Douglas Beitum.
-Committed to the service to be performed, I act in the best possible way, always using good logical reasoning, 
-I have experience with systems, dashboards, devops methodology and various tools. 
-I am passionate about creating beautiful, functional and accessible user interfaces.
-I always seek to update myself on new trends  in the market. 
-My goal is to be part of a team that values: quality, creativity and collaboration in the development of web solutions. 
-  
-<hr>
-
 <div align="center">
-  <h4>For more information visit my website:</h4>
+  <h4>website:</h4>
     <div align="center">
         <a href="https://guilhermeb.web.app">GUILHERME D. BEITUM</a>
     </div>
