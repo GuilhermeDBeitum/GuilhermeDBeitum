@@ -1,11 +1,12 @@
+![banner)](banner.png)<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+
+
 <div align=center>
    <img  src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=2&column=1&margin-w=0&margin-h=0&theme=radical&title=MultiLanguage"> 
 </div>
-  
-<hr>
-  
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeDBeitum&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeDBeitum&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeDBeitum&theme=nord_dark) |
-| :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeDBeitum&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDBeitum&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<img src="https://nirzak-streak-stats.vercel.app/?user=GuilhermeDBeitum&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDBeitum&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
