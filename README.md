@@ -1,3 +1,5 @@
+![banner)](banner.png)<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDBeitum&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
