@@ -6,4 +6,4 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeDBeitum&row=1&column=1&margin-w=1&margin-h=1&theme=radical&title=MultiLanguage" width="14%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="right">
